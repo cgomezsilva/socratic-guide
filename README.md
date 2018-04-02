@@ -19,4 +19,6 @@
 
 ## Circulo Externo
 
-{% include_relative /activities.md %}
+---------------------------
+
+{% include activities.md %}
