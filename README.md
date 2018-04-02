@@ -4,7 +4,7 @@
 
 ## Seleccion Texto
 
-![](https://flic.kr/p/3urno9)
+![](https://farm3.staticflickr.com/2297/1634525152_55e4f3dc84.jpg)
 
 ## Formulacion de Preguntas
 
