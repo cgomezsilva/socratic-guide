@@ -19,4 +19,4 @@
 
 ## Circulo Externo
 
-{% includes ./activities.md %}
+{% include /activities.md %}
