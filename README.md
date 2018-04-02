@@ -10,6 +10,9 @@
 
 ## Organizacion de Aula
 
+- [] Check 1
+- [x] Check 2
+
 ## Los Circulos
 
 ## Circulo Interno
