@@ -1,6 +1,6 @@
 # Seminarios Socraticos
 
-{% include activities.md %}
+{% includes activities.md %}
 
 ## Descripcion
 
