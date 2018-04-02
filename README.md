@@ -10,7 +10,7 @@
 
 ## Organizacion de Aula
 
-- [] Check 1
+- [ ] Check 1
 - [x] Check 2
 
 ## Los Circulos
