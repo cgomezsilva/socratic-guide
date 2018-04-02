@@ -18,3 +18,5 @@
 ## Circulo Interno
 
 ## Circulo Externo
+
+{% ./activities.md %}
