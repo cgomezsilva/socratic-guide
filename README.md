@@ -21,4 +21,4 @@
 
 ---------------------------
 
-{% include activities.md %}
+{% include_relative /activities.md %}
