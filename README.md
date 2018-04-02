@@ -1,5 +1,7 @@
 # Seminarios Socraticos
 
+{% include activities.md %}
+
 ## Descripcion
 
 ## Seleccion Texto
@@ -21,4 +23,4 @@
 
 ---------------------------
 
-{% include activities.md %}
+
